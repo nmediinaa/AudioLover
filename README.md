@@ -2,7 +2,7 @@
 
 
   
-<p> Esse é um projeto em que trabalhei e coloquei em pratica alguns conceitos da <strong>Programção Orientada a Objetos</strong> em <strong>Java</strong>, como por exemplo Encapsulamento, Modificadores de acesso como Public, Private e Protected, Herança e Polimorfismo. 
+<p>Esse é um projeto em que trabalhei e coloquei em prática conceitos da <strong>Programação Orientada a Objetos</strong> em <strong>Java</strong>, como, por exemplo, classes, objetos, invocações de métodos, encapsulamento, modificadores de acesso como public e private, herança e polimorfismo. 
 
   # 📁 Acesso ao projeto
 
